@@ -1,2 +1,3 @@
-# cool_opensource_project
-Test project for tutorial
+# World's Greatest Open Source Project
+
+This app does all the things!
